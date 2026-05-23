@@ -1,1 +1,0 @@
-# cultini-backend
